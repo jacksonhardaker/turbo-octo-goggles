@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jacksonhardaker/turbo-octo-goggles/issues"
   },
-  "homepage": "https://github.com/jacksonhardaker/turbo-octo-goggles#readme"
+  "homepage": "https://github.com/jacksonhardaker/turbo-octo-goggles#readme",
+  "devDependencies": {
+    "webpack": "^4.12.1"
+  }
 }
