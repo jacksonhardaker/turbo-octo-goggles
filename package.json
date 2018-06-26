@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/jacksonhardaker/turbo-octo-goggles#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
     "webpack": "^4.12.1"
   }
 }
