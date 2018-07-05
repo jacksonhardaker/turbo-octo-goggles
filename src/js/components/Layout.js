@@ -14,7 +14,7 @@ export default class Layout extends React.Component {
     render() {
 
         return <div>
-            <h1>Stuff</h1>
+            <h1>Jicksin</h1>
         </div>
     }
 }
